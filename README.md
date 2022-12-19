@@ -18,15 +18,16 @@ seaborn <br/>
 
 
 ## Install dependencies
---
 
-Pandas:           $ sudo pip install pandas  <br/>
-numpy:            $ sudo pip install numpy <br/> 
-scipy:            $ sudo pip install scipy <br/>
-scikit-learn:     $ sudo pip install -U scikit-learn <br/>
+```
+Pandas:           $ sudo pip install pandas  
+numpy:            $ sudo pip install numpy 
+scipy:            $ sudo pip install scipy 
+scikit-learn:     $ sudo pip install -U scikit-learn
 matplotlib:  <br/>
-                  $ sudo apt-get install libfreetype6-dev libpng-dev <br/>
-                  $ sudo pip install matplotlib  <br/> 
-seaborn:          $ sudo pip install seaborn  <br/>
-jupyter notebook: $ sudo apt-get -y install ipython ipython-notebook <br/>
-                  $ sudo -H pip install jupyter <br/>
+                  $ sudo apt-get install libfreetype6-dev libpng-dev 
+                  $ sudo pip install matplotlib  
+seaborn:          $ sudo pip install seaborn  
+jupyter notebook: $ sudo apt-get -y install ipython ipython-notebook
+                  $ sudo -H pip install jupyter 
+```
