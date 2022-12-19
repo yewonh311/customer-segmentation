@@ -7,7 +7,7 @@ Using PCA to include more attributes, such as Reviews and Content Rating, so to 
 
 ## Dependencies
 ---
-Python 2.7 or Python >3.4/
+Python 2.7 or Python >3.4<br/>
 jupyter notebook
 pandas
 numpy
